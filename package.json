@@ -1,7 +1,7 @@
 {
-  "name": "theme-template",
+  "name": "Jobless Reincarnation",
   "version": "1.0.0",
-  "description": "A theme template",
+  "description": "ClearVision edit",
   "engines": {
     "node": ">=14.0.0"
   },
